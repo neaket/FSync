@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSync", "FSync\FSync.csproj", "{36B98DC1-422F-48B5-A2F4-7226A299FEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B98DC1-422F-48B5-A2F4-7226A299FEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B98DC1-422F-48B5-A2F4-7226A299FEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B98DC1-422F-48B5-A2F4-7226A299FEEA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{36B98DC1-422F-48B5-A2F4-7226A299FEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B98DC1-422F-48B5-A2F4-7226A299FEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B98DC1-422F-48B5-A2F4-7226A299FEEA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
